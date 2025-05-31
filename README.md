@@ -47,7 +47,7 @@ The dashboard uses a dataset containing:
 
 ## 🖼️ Screenshots
 
-![Screenshot]("C:\Users\Administrator\Pictures\Screenshots\Screenshot 2025-05-31 154341.png")
+![Alt Image](Power BI cryptocurrency/Screenshot 2025-05-31 154341.png)
 
 ---
 
@@ -58,11 +58,6 @@ The dashboard uses a dataset containing:
 3. Refresh the data if needed.
 4. Explore the dashboard with filters and visuals.
 
----
-
-## 🔗 Demo / Portfolio Link
-
-> [Optional: Add a link to your portfolio, video demo, or LinkedIn post]
 
 ---
 
