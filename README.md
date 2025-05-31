@@ -47,7 +47,7 @@ The dashboard uses a dataset containing:
 
 ## 🖼️ Screenshots
 
-> *(Insert screenshots of your dashboard here once uploaded to GitHub)*
+![Screenshot]("C:\Users\Administrator\Pictures\Screenshots\Screenshot 2025-05-31 154341.png")
 
 ---
 
