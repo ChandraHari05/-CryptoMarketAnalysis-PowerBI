@@ -47,7 +47,7 @@ The dashboard uses a dataset containing:
 
 ## 🖼️ Screenshots
 
-![image alt]
+![image alt](https://github.com/ChandraHari05/-CryptoMarketAnalysis-PowerBI/tree/667db58eb990a1f5e2bd499d15a311a37c458637/Power%20BI%20cryptocurrency)
 
 ---
 
