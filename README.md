@@ -47,7 +47,7 @@ The dashboard uses a dataset containing:
 
 ## 🖼️ Screenshots
 
-![Alt Image](Power BI cryptocurrency/Screenshot 2025-05-31 154341.png)
+![image alt]
 
 ---
 
