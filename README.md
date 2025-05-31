@@ -71,7 +71,7 @@ The dashboard uses a dataset containing:
 **Your Name**  
 📧 [your.email@example.com]  
 🔗 [LinkedIn](www.linkedin.com/in/chandrahari-u-0082ba270)  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/ChandraHari05)
 
 ---
 
